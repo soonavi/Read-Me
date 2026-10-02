@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently working on 2 main projects, Listenwell & Selv. I am interested in software<br>engineering, AI, machine learning, and computer vision, and I enjoy building real<br>projects that solve real world problems and are used by real people.
 
-I'm currently<br>developing my technical portfolio and looking for opportunities to apply my skills<br>in software development & agentic workflows
+I'm currently developing my technical portfolio and looking for opportunities to apply my skills<br>in software development & agentic workflows
 
 Let's connect!
 
